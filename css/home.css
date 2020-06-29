@@ -209,7 +209,7 @@ nav ul li a:hover::after{
 
 .text-container{
 	position: absolute;
-	left: 10%;
+	left: 13%;
 	top: 40%;
 	transform: translate(-13%,-42%);
 }

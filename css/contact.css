@@ -90,10 +90,10 @@ h2{
 		flex-direction: column;
   	}
   	.card{
-    	width: 100%;
-    	max-width: 300px;
-    	margin: 10px 0;
-    }
+                width: 100%;
+                max-width: 300px;
+                margin: 10px 0;
+        }
 }
 
 @media screen and (max-height: 600px){

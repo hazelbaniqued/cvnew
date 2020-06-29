@@ -193,7 +193,7 @@ nav ul li a:hover::after{
 	letter-spacing: 1px;
 	color: #1a1a1a;
 	font-size: 60px;
-    text-shadow: 3px 3px #948b8f;
+    	text-shadow: 3px 3px #948b8f;
 }
 
 .text-container p:nth-child(3){
